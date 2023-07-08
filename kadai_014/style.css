@@ -1,0 +1,28 @@
+body {
+      font-family: "Arial","Meiryo",sans-serif ; 
+      font-size: 20px;
+      text-align: center;   
+     }
+.google-fonts {
+   font-family: 'Noto Sans JP', sans-serif;
+   font-size: 40px;
+   letter-spacing: 1.2em;
+   border-bottom: solid 3px rgb(115,115,114); 
+   text-shadow: 1px 1px 3px blue;
+     }
+.MP {
+      color: skyblue;
+    }
+.PM {
+      color: rgb(255,192,203)
+} 
+.pink {
+      color: rgb(255,192,203);
+}
+.sb {
+      color: skyblue;
+}
+div {
+      font-weight: bold;
+}
+
